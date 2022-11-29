@@ -1,2 +1,1 @@
-git is awesome
-real talk
+ai is great
